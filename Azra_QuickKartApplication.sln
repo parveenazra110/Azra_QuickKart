@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azra_QuickKartApplication", "Azra_QuickKartApplication\Azra_QuickKartApplication.csproj", "{C6D424AC-E00B-4A8D-8736-E71CB25F2060}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azra_QuickKart_DataAccessLayer", "Azra_QuickKart_DataAccessLayer\Azra_QuickKart_DataAccessLayer.csproj", "{B45EB431-0450-451A-8444-D03D5D018A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azra_QuickKart_CommonLayer", "Azra_QuickKart_CommonLayer\Azra_QuickKart_CommonLayer.csproj", "{F56C3E25-9BF8-4341-B28B-6732C1843D28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azra_QuickKart_ConsoleApplication", "Azra_QuickKart_ConsoleApplication\Azra_QuickKart_ConsoleApplication.csproj", "{1F1F33AC-118D-4618-805A-11251C76B7E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{C6D424AC-E00B-4A8D-8736-E71CB25F2060}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6D424AC-E00B-4A8D-8736-E71CB25F2060}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6D424AC-E00B-4A8D-8736-E71CB25F2060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45EB431-0450-451A-8444-D03D5D018A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45EB431-0450-451A-8444-D03D5D018A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45EB431-0450-451A-8444-D03D5D018A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45EB431-0450-451A-8444-D03D5D018A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56C3E25-9BF8-4341-B28B-6732C1843D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56C3E25-9BF8-4341-B28B-6732C1843D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56C3E25-9BF8-4341-B28B-6732C1843D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56C3E25-9BF8-4341-B28B-6732C1843D28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1F33AC-118D-4618-805A-11251C76B7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1F33AC-118D-4618-805A-11251C76B7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1F33AC-118D-4618-805A-11251C76B7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1F33AC-118D-4618-805A-11251C76B7E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
